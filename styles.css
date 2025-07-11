@@ -5,7 +5,7 @@
 /* header styles */
 header{
     background-image: url(Assets/Hero-bg.png);
-    width: 1440px;
+    max-width: 1440px;
     height: 698px;
 }
 nav{
@@ -36,6 +36,11 @@ nav li{
     font-weight: bold;
     border: none;
     border-radius: 10px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: blue;
+    box-shadow: 5px 5px 5px rgb(199, 198, 198);
 }
 .hero{
     justify-items: center;
@@ -118,6 +123,7 @@ main{
     text-align: center;
     border: none;
     border-radius: 24px;
+    margin-top: 116px;
 }
 .third h3{
     font-size: 40px;
@@ -234,6 +240,7 @@ main{
     display: flex;
     gap: 80px;
     padding: 100px;
+    margin-top: 116px;
 }
 .get-in-touch h1{
     font-size: 90px;
@@ -264,7 +271,7 @@ form{
 
 
 
-/* 7th part */
+/* 7th part footer */
 footer{
     text-align: center;
     padding: 100px;
