@@ -1,0 +1,64 @@
+/* header styles */
+header{
+    background-image: url(Assets/Hero-bg.png);
+    width: 1440px;
+    height: 698px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin: 0 auto;
+}
+.Logo{
+    color: #4E47FF;
+    font-size: 36px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.button{
+    color: white;
+    background-color: #4E47FF;
+    width: 132px;
+    height: 48px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+.hero{
+    justify-items: center;
+}
+.h1-hero{
+    width: 905px;
+    height: 237px;
+    font-size: 65px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.heroh1{
+    height: 240px;
+    padding-top: 120px;
+}
+.herob{
+    padding-top: none;
+    height: 80px;
+    padding-bottom: 200px;
+}
+.stayb{
+    width: 174px;
+    height: 48px;
+    font-size: 16px;
+}
+
+/* main styles */
+
+main{
+    margin-top: 116px;
+}
+
