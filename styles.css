@@ -185,4 +185,41 @@ main{
 .pic{
     width: 40px;
     height: 40px;
+    padding: 50px 70px;
+}
+
+
+
+
+
+
+
+
+
+/* 5th part */
+
+.fifth{
+    background-color: white;
+    border: none;
+    border-radius: 24px;
+    text-align: center;
+    padding: 20px 40px;
+    margin-top: 116px;
+}
+.fifth h3{
+    font-size: 50px;
+}
+.fifth p{
+    font-size: 20px;
+    color: #8987A1;
+}
+.fifth-button{
+    width: 100%;
+    
+}
+.fifth-part-image{
+    border: none;
+    border-radius: 24px;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
