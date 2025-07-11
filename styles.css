@@ -62,3 +62,34 @@ main{
     margin-top: 116px;
 }
 
+.second{
+    display: flex;
+    width: 1140px;
+    height: 328px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-top: 62.5px;
+    padding-bottom: 62.5px;
+}
+.second-content h3{
+    width: 517px;
+    height: 49px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.second-content p{
+    font-size: 24px;
+    color: #8987A1;
+}
+.secondb{
+    width: 250px;
+    height: 48px;
+    padding: 12px 36px;
+}
+.second-image{
+    width: 403px;
+    height: 328px;
+    border: none;
+    border-radius: 48px;
+}
